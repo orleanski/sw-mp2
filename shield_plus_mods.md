@@ -74,6 +74,8 @@
 
 # Holster
 
+- [High Level Retention HLR Discreet Gear Clips™](https://discreetcarryconcepts.com/HLR-Discreet-Gear-Clips™-c26960683)
+
 # Training
 - [MantisX](https://mantisx.com/)  Attach the MantisX to your firearm and receive app-guided coaching to improve each shot.
 - [iHack](https://pistol-training.com/shooting-drills/ihack/)
