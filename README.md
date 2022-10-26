@@ -1,2 +1,2 @@
-# sw-mp2
-Collection of available mods for Smith and Wesson M&amp;P 2.0 series.
+# Collection of available mods for Smith and Wesson M&P 2.0 series.
+- [Shield Plus](shield_plus_mods.md)
